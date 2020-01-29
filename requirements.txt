@@ -3,3 +3,4 @@ Flask-Login==0.4.1
 Jinja2==2.10
 jsonschema==2.6.0
 SQLAlchemy==1.2.9
+gunicorn==19.7.1
